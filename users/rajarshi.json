@@ -1,0 +1,1 @@
+curl -d'{ "copyright": "Rajarshi Bhadra (aka m45k174)","email": "admin@distribure.cf", "format": "txt" }' https://m45k174.mit-license.org
